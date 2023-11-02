@@ -4,4 +4,6 @@
     </div>
 </template>
 
-<script type="module" src="../three"></script>
+<script>
+
+</script>
